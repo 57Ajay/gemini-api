@@ -8,6 +8,15 @@ This repository provides a simple example of how to interact with the Gemini Pro
 - **Error Handling:** Robust error handling to manage potential issues like invalid API keys or network problems.
 - **Environment Variables:**  Securely store your API key in a `.env.local` file for easy configuration.
 - **Streaming Output:** Receive responses in a streaming format for a more interactive experience. (Example code provided, but not implemented in the current version of `gemini-chat.js`)
+## Chat Models
+### gemini-chat:
+- used for simple chat purpose, Supports Back and forth conversation but slow
+### gemini-streaming:
+- Similer to gemini-chat but much faster
+### gemini-pro-vision:
+- can Analyse Images
+### gemini-start:
+- Simplest model does not Support Back & Forth chat, biut good for learning about Gemini API
 
 ## Getting Started
 
