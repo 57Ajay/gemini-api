@@ -7,7 +7,7 @@ import './style.css';
 // 🔥🔥 FILL THIS OUT FIRST! 🔥🔥
 // Get your Gemini API key by:
 // visiting https://aistudio.google.com/app/apikey
-let API_KEY = 'TODO';
+let API_KEY = 'AIzaSyB8tOPW2-e9zO27tVt0tZJJmPH3x3Hn01s';
 
 let form = document.querySelector('form');
 let promptInput = document.querySelector('input[name="prompt"]');
