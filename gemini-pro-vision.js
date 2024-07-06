@@ -1,6 +1,6 @@
 import dotenv from 'dotenv';
 dotenv.config({ path: '.env.local' });
-console.log(process.env.API_KEY);
+// console.log(process.env.API_KEY);
 import * as fs from 'fs';
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
