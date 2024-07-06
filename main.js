@@ -6,8 +6,7 @@ import './style.css';
 
 // 🔥🔥 FILL THIS OUT FIRST! 🔥🔥
 // Get your Gemini API key by:
-// - Selecting "Add Gemini API" in the "Project IDX" panel in the sidebar
-// - Or by visiting https://g.co/ai/idxGetGeminiKey
+// visiting https://aistudio.google.com/app/apikey
 let API_KEY = 'TODO';
 
 let form = document.querySelector('form');
